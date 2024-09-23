@@ -31,10 +31,10 @@ dev
 docs
 email
 epost
-exchange
 forecast
 forum
 ftp
+gammel
 git
 grafana
 home
@@ -61,14 +61,12 @@ nettbutikk
 new
 nyhetsbrev
 old
-outlook
 owa
 pop
 pop3
 portal
 prod
 rdp
-rds
 rdweb
 redash
 remote
@@ -79,6 +77,8 @@ research
 secure
 shop
 sign
+sitemap
+skjema
 smtp
 ssl
 sslvpn
