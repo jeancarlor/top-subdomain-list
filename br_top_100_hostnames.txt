@@ -1,11 +1,12 @@
 adm
 admin
+ajuda
+analytics
 api
 app
 arquivos
 atendimento
 auth
-autoconfig
 bat
 beta
 blog
@@ -23,7 +24,6 @@ cloud
 com
 conteudo
 correioadm
-cpanel
 crm
 cursos
 dashboard
@@ -33,8 +33,10 @@ docs
 ead
 email
 erp
+financeiro
 ftp
 gestao
+gitlab
 grafana
 gtm
 hml
@@ -45,7 +47,7 @@ intranet
 ipv6
 link
 links
-load
+login
 loja
 mail
 marketing
@@ -62,12 +64,12 @@ pagamento
 painel
 pixel
 pixels
-plataforma
 pop
 pop3
 portainer
 portal
 random
+sandbox
 seguro
 server
 shop
@@ -78,7 +80,6 @@ speedtest
 staging
 stape
 stat
-static
 status
 storage
 superset
@@ -89,12 +90,11 @@ transparencia
 typebot
 vendas
 web
-webdisk
 webhook
 webmail
-whm
 wiki
 ww16
 ww25
+ww38
 www
 zabbix
