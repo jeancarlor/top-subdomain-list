@@ -9,10 +9,9 @@
 </p>
 
 <h1 align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/33299258/371659832-fee117f0-91dd-474e-b062-3f1547144fe8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240927%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240927T194509Z&X-Amz-Expires=300&X-Amz-Signature=1d999a7cfb45ade99e18bcd7c9abd163b4d7174e847e5e2b039dcf0f2b164fac&X-Amz-SignedHeaders=host" width="70%">
+<img src="https://private-user-images.githubusercontent.com/33299258/371663791-259b5117-700c-4a16-8bf0-4ad9f1451eb8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0Njc0NTgsIm5iZiI6MTcyNzQ2NzE1OCwicGF0aCI6Ii8zMzI5OTI1OC8zNzE2NjM3OTEtMjU5YjUxMTctNzAwYy00YTE2LThiZjAtNGFkOWYxNDUxZWI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDE5NTkxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0NmQzZWYzM2ZhN2JmMDU0NzE2YjYyZTNiMjM2ZjgyMzg3ZDhjM2Y0OTE0OThjZTMxNDgzM2QxOGVlNzQyMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sOMmGtb4r0Pzbk7UMsqgd32IJ7S1vBlV2qAzS61iVSI" width="100%">
 </h1>
 
-![carbon](https://github.com/user-attachments/assets/259b5117-700c-4a16-8bf0-4ad9f1451eb8)
 
 
 ## Run with dnsx:
