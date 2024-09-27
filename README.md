@@ -13,6 +13,7 @@
 </h1>
 
 
+![carbon(1)](https://github.com/user-attachments/assets/53b9263d-33ec-4737-a0e5-08312381499b)
 
 ## Run with dnsx:
 ```console
