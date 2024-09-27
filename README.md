@@ -25,9 +25,8 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 
 ## Dataset:
 
-| :---: | :---:   | ---:   |
 | TLS   | Country | Records Analyzed  |
 | ---   | ---     | ---   |
 | `BR` | Brazil | 8.6 M records |
-| `COM` | No associated country | 11.5 M records |
+| `COM` | No associated country | 220.1 M records |
 
