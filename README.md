@@ -16,7 +16,7 @@
 
 ## Run with dnsx:
 ```console
-dnsx -d FUZZ.google.com -w /root/com_top_100_hostnames.txt -silent -a
+dnsx -d FUZZ.google.com -w com_top_100_hostnames.txt -silent -a
 ```
 
 Use dnsx to query the searched domain directly. The dnsx tool must be installed beforehand.
