@@ -3,7 +3,8 @@
 <p align="center">
   <a href="#description">Description</a> •
  <!-- <a href="#run-with-docker">Run with Docker</a> • -->
-  <a href="#run-with-dnsx">Run with dnsx</a>
+  <a href="#run-with-dnsx">Run with dnsx</a>  •
+  <a href="#dataset">Dataset</a>  •
 
 **TSL** is an efficient way to improve your recon. This list is based on millions of analyzed and filtered domains, removing invalid or irrelevant data. The domain list is updated on average once a month. New domains will be added in the future.
 </p>
@@ -21,4 +22,12 @@ dnsx -d FUZZ.google.com -w com_top_100_hostnames.txt -silent -a
 
 Use dnsx to query the searched domain directly. The dnsx tool must be installed beforehand.
 
+
+## Dataset:
+
+| :---: | :---:   | ---:   |
+| TLS   | Country | Records Analyzed  |
+| ---   | ---     | ---   |
+| `BR` | Brazil | 8.6 M records |
+| `COM` | No associated country | 11.5 M records |
 
