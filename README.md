@@ -14,6 +14,8 @@
 </h1>
 
 
+![dnsx_top_subdomain](https://github.com/user-attachments/assets/fee117f0-91dd-474e-b062-3f1547144fe8)
+
 
 ## Run with dnsx:
 ```console
