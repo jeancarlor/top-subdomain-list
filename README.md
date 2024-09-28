@@ -27,8 +27,28 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 
 | TLS   | Country | Records Analyzed  |
 | ---   | ---     | ---   |
-| `BR` | Brazil | 8.6 M records |
+| `AE` | United Arab Emirates | 0.3 M records |
+| `AM` | Armenia | 0.1 M records |
+| `AR` | Argentina | 1.2 M records |
+| `AT` | Austria | 1.7 M records |
+| `BR` | Brazil | 8.7 M records |
+| `CA` | Canada | 4.4 M records |
+| `CH` | Switzerland | 3.7 M records |
+| `CL` | Chile | 1.6 M records |
+| `CN` | China | 2.4 M records |
 | `COM` | No associated country | 220.1 M records |
+| `DE` | Germany | 19.5 M records |
+| `DK` | Denmark | 1.6 M records |
+| `EG` | Egypt | 0.02 M records |
+| `FR` | France | 6.3 M records |
+| `IE` | Ireland | 0.5 M records |
+| `IL` | Israel | 0.6 M records |
+| `IN` | India | 5.3 M records |
+| `IT` | Italy | 6.6 M records |
+| `NL` | Netherlands | 7.5 M records |
+| `NO` | Norway | 1.4 M records |
+| `PY` | Paraguay | 0.08 M records |
+| `US` | United States of America | 2.7 M records |
 
 
 
