@@ -15,8 +15,9 @@
 </h1>
 -->
 
-![dnsx](https://github.com/user-attachments/assets/c842a4eb-4a31-4b84-92d9-674e04467d53){: width="80%"}
-
+<p align="center">
+![dnsx](https://github.com/user-attachments/assets/c842a4eb-4a31-4b84-92d9-674e04467d53)
+</p>p>
 
 ## Run with dnsx:
 ```console
