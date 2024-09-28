@@ -30,3 +30,6 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `BR` | Brazil | 8.6 M records |
 | `COM` | No associated country | 220.1 M records |
 
+
+![carbon](https://github.com/user-attachments/assets/c842a4eb-4a31-4b84-92d9-674e04467d53)
+
