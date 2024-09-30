@@ -6,7 +6,7 @@
   <a href="#run-with-dnsx">Run with dnsx</a>  •
   <a href="#dataset">Dataset</a>
 
-**TSL** is an efficient way to improve your recon. This list is based on millions of analyzed and filtered domains, removing invalid or irrelevant data. The domain list is updated on average once a month. New domains will be added in the future.
+This is an efficient way to improve your recon. This list is based on millions of analyzed and filtered domains, obtained by scraping internet and removing invalid or irrelevant data. The domain list is updated on average once a month. New domains will be added in the future.
 </p>
 
 <!--
