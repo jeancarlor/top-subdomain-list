@@ -29,7 +29,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 ## Dataset:
 
 | ccTLD   | Country | Records Analyzed  |
-| ---   | ---     | ---   |
+| :---:   | ---     | ---   |
 | `AE` | United Arab Emirates | 0.3 M records |
 | `AM` | Armenia | 0.1 M records |
 | `AR` | Argentina | 1.2 M records |
