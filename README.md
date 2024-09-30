@@ -28,7 +28,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 
 ## Dataset:
 
-| TLD   | Country | Records Analyzed  |
+| ccTLD   | Country | Records Analyzed  |
 | ---   | ---     | ---   |
 | `AE` | United Arab Emirates | 0.3 M records |
 | `AM` | Armenia | 0.1 M records |
