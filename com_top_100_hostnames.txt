@@ -19,7 +19,6 @@ chat
 checkout
 cloud
 com
-connect
 crm
 dash
 dashboard
@@ -31,6 +30,7 @@ dev
 docs
 email
 forecast
+forum
 ftp
 git
 gitlab
@@ -94,7 +94,7 @@ ww1
 ww12
 ww16
 ww25
-ww3
 ww38
+ww5
 www
 www1
