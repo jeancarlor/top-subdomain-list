@@ -30,6 +30,8 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 
 | ccTLD   | Country | Records Analyzed  |
 | ---   | ---     | ---   |
+| ccTLD   | Country | Records Analyzed  |
+| ---   | ---     | ---   |
 | `AE` | United Arab Emirates | 0.3 M records |
 | `AM` | Armenia | 0.1 M records |
 | `AR` | Argentina | 1.2 M records |
@@ -53,6 +55,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `NL` | Netherlands | 7.5 M records |
 | `NO` | Norway | 1.4 M records |
 | `PY` | Paraguay | 0.08 M records |
+| `RU` | Russia | 9.5 M records |
 | `US` | United States of America | 2.7 M records |
 
 
