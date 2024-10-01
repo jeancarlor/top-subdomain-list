@@ -7,6 +7,7 @@ api
 app
 apps
 auth
+beta
 bigdata
 blog
 cdn
@@ -15,7 +16,6 @@ chat
 cloud
 cms
 community
-correo
 dash
 dashboard
 dashboards
@@ -38,11 +38,8 @@ imap
 img
 intel
 intelligence
-localhost
 login
-lyncdiscover
 mail
-mail3
 matomo
 media
 metric
@@ -55,6 +52,7 @@ new
 nextcloud
 ns1
 ns2
+office
 old
 outlook
 owa
@@ -63,7 +61,6 @@ pop
 pop3
 portal
 random
-rdweb
 redash
 remote
 report
@@ -89,12 +86,15 @@ test
 visual
 vpn
 web
-webdisk
 webmail
 wiki
 ww1
+ww12
 ww25
+ww38
+ww8
 www
 www1
 www2
+www3
 www4
