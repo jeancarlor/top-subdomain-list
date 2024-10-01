@@ -36,7 +36,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `AT` | Austria | 1.7 M records |
 | `AU` | Australia | 6.0 M records |
 | `BR` | Brazil | 8.7 M records |
-| `CA` | Canada | 4.4 M records |
+| `CA` | Canada | 4.5 M records |
 | `CH` | Switzerland | 3.7 M records |
 | `CL` | Chile | 1.6 M records |
 | `CN` | China | 2.4 M records |
