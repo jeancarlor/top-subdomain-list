@@ -40,7 +40,6 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `CH` | Switzerland | 3.7 M records |
 | `CL` | Chile | 1.6 M records |
 | `CN` | China | 2.4 M records |
-| `COM` | No associated country | 220.1 M records |
 | `DE` | Germany | 19.5 M records |
 | `DK` | Denmark | 1.6 M records |
 | `EG` | Egypt | 0.02 M records |
@@ -55,6 +54,10 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `PY` | Paraguay | 0.08 M records |
 | `RU` | Russia | 9.5 M records |
 | `US` | United States of America | 2.7 M records |
+
+| gTLD   | Country | Records Analyzed  |
+| :---:   | ---     | ---   |
+| `COM` | Commercial| 220.1 M records |
 
 
 
