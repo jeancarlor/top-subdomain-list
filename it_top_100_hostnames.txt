@@ -28,7 +28,6 @@ desktop
 dev
 email
 eposta
-ex02
 exch2016
 exchange
 exchangecorp
@@ -36,6 +35,8 @@ exchmail
 exmail2
 forecast
 ftp
+git
+hostmaster
 imap
 imap4
 intel
@@ -50,7 +51,6 @@ mail1
 mail3
 metric
 metrics
-mobileconnect
 msexch2k13
 mx001
 mymail
@@ -67,7 +67,6 @@ portal
 postmaster
 random
 rdp
-rds
 rdweb
 redash
 remote
@@ -97,4 +96,5 @@ webmail
 webmail05
 webmail2013
 ww25
+ww38
 www
