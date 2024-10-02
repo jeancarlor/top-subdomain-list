@@ -10,12 +10,14 @@ auth
 beta
 bigdata
 blog
+board
 cdn
 chart
 chat
 cloud
 cms
 community
+console
 dash
 dashboard
 dashboards
@@ -25,7 +27,6 @@ demo
 dev
 docs
 email
-exchange
 forecast
 forum
 forums
@@ -38,6 +39,7 @@ imap
 img
 intel
 intelligence
+internal
 login
 mail
 matomo
@@ -52,14 +54,13 @@ new
 nextcloud
 ns1
 ns2
-office
 old
-outlook
 owa
 phpmyadmin
 pop
 pop3
 portal
+preview
 random
 redash
 remote
@@ -70,6 +71,7 @@ research
 secure
 shop
 sitemap
+sitemaps
 smtp
 soa
 ssh
@@ -85,7 +87,6 @@ support
 test
 visual
 vpn
-web
 webmail
 wiki
 ww1
@@ -94,7 +95,6 @@ ww25
 ww38
 ww8
 www
-www1
 www2
 www3
 www4
