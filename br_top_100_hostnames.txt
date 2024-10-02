@@ -21,7 +21,6 @@ checkout
 click
 cliente
 cloud
-com
 conteudo
 correioadm
 crm
@@ -44,7 +43,6 @@ homolog
 homologacao
 imap
 intranet
-ipv6
 link
 links
 login
@@ -64,6 +62,7 @@ pagamento
 painel
 pixel
 pixels
+plataforma
 pop
 pop3
 portainer
@@ -86,6 +85,7 @@ superset
 suporte
 test
 teste
+traefik
 transparencia
 typebot
 vendas
