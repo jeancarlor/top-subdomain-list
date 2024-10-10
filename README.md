@@ -35,12 +35,13 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `AR` | Argentina | 1.2 M records |
 | `AT` | Austria | 1.7 M records |
 | `AU` | Australia | 6.0 M records |
-| `BR` | Brazil | 8.7 M records |
+| `BR` | Brazil | 8.6 M records |
 | `CA` | Canada | 4.5 M records |
 | `CH` | Switzerland | 3.7 M records |
 | `CL` | Chile | 1.6 M records |
 | `CN` | China | 2.4 M records |
 | `COM` | No associated country | 220.1 M records |
+| `CO` | Colombia | 4.3 M records |
 | `DE` | Germany | 19.5 M records |
 | `DK` | Denmark | 1.6 M records |
 | `EG` | Egypt | 0.02 M records |
@@ -54,6 +55,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `NO` | Norway | 1.4 M records |
 | `PY` | Paraguay | 0.08 M records |
 | `RU` | Russia | 9.5 M records |
+| `UK` | United Kingdom | 10.8 M records |
 | `US` | United States of America | 2.7 M records |
 
 
