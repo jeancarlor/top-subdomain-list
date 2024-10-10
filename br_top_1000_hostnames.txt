@@ -153,9 +153,9 @@ captive
 card
 cardapio
 carreiras
+carrinho
 cartao
 casa
-cashback
 catalogo
 cdn
 central
@@ -220,6 +220,7 @@ contatos
 content
 conteudo
 conteudos
+contrate
 contrato
 contratos
 control
@@ -235,14 +236,12 @@ correo
 corretor
 cortinas
 cotacao
-covid
 credenciamento
 credito
 crm
 cron
 cronos
 cultura
-curitiba
 curriculo
 curso
 cursos
@@ -250,14 +249,12 @@ dados
 dash
 dashboard
 dashboards
-dashs
 dat
 data
 database
 dav
 delivery
 demo
-demo2
 demonstracao
 dentista
 deploy
@@ -309,8 +306,10 @@ emailmkt
 emails
 emissor
 emkt
+empreendimentos
 empresa
 empresas
+emv1
 engenharia
 ensino
 envio
@@ -330,10 +329,10 @@ evo2
 evoapi
 evolution
 evolutionapi
+ex02
 exames
 exchange
 exemplo
-express
 extranet
 facebook
 faculdade
@@ -350,6 +349,7 @@ fidelidade
 fila
 file
 files
+finance
 financeiro
 fiscal
 flashman
@@ -363,10 +363,10 @@ formacao
 forms
 formulario
 formularios
+fornecedor
 fornecedores
 forum
 fotos
-fpg
 franquia
 franquias
 front
@@ -383,12 +383,12 @@ geo
 gerenciador
 gerencial
 gestao
-gestaodeterceiros
 gestor
 git
 gitlab
 global
 glpi
+goiania
 google
 gps
 grafana
@@ -419,8 +419,6 @@ hotfix
 hotsite
 hotspot
 hub
-icase
-icongresso
 image
 imagens
 images
@@ -457,21 +455,21 @@ intranet
 inventario
 iot
 ipam
-iptv
 ixc
 jenkins
-jira
 jobs
 jogos
 jornada
+juridico
+k8s
 keycloak
 kibana
 lab
+laboratorio
 labs
 lai
 lancamento
 lancamentos
-land
 landing
 landingpage
 langflow
@@ -524,6 +522,7 @@ mailsg
 main
 mais
 manager
+manuais
 manual
 manutencao
 mapa
@@ -537,7 +536,6 @@ materiais
 material
 matricula
 matriculas
-matriz
 mautic
 mboss
 mbox
@@ -547,6 +545,7 @@ media
 meet
 meeting
 membros
+mentor
 mentoria
 menu
 meta
@@ -555,13 +554,13 @@ metodo
 metric
 metrics
 meu
-meuip
 meurh
 midia
 minha
 minhaconta
 minio
 minioapi
+minioback
 minios3
 minisites
 mkt
@@ -576,6 +575,7 @@ moskit-tracking
 mqtt
 msg
 mta-sts
+music
 mwww
 mx1
 mysql
@@ -610,6 +610,7 @@ ns1
 ns2
 nuvem
 obrigado
+ocs
 odonto
 odoo
 oferta
@@ -620,6 +621,7 @@ oficina
 old
 ollama
 omni
+onboarding
 one
 online
 onlyoffice
@@ -631,7 +633,6 @@ oportunidades
 orcamento
 org
 osm
-out
 outlook
 ouvidoria
 owa
@@ -650,7 +651,6 @@ palestra
 panel
 parceiro
 parceiros
-parcerias
 partner
 pass
 passbolt
@@ -659,7 +659,6 @@ payment
 payments
 pbx
 pdf
-pdg
 pdv
 pedido
 pedidos
@@ -670,6 +669,7 @@ pesquisa
 pet
 pga
 pgadmin
+php
 phpmyadmin
 pix
 pixel
@@ -682,6 +682,7 @@ player
 plesk
 pma
 poc
+podcast
 ponto
 pop
 pop3
@@ -690,7 +691,6 @@ portainer
 portainer2
 portal
 portal-staging
-portaldoaluno
 portaldocliente
 portaldotitular
 portallgpd
@@ -699,6 +699,7 @@ portfolio
 portifolio
 pos
 prd
+pre
 prefeitura
 premium
 preprod
@@ -724,7 +725,6 @@ propostas
 protocolo
 proxmox
 proxy
-psi
 public
 push
 qdrant
@@ -742,7 +742,6 @@ rds
 rdweb
 receitas
 recursos
-redash
 rede
 redirecionamento
 redirect
@@ -763,7 +762,6 @@ repositorio
 research
 reserva
 reservas
-rest
 restaurante
 restrito
 resultados
@@ -775,14 +773,13 @@ rifa
 rifas
 ris
 rmq
-robo
-rosaamazonica
 router
 saas
 sac
 salao
 sales
 sandbox
+saopaulo
 sap
 sapl
 saude
@@ -792,6 +789,7 @@ seguranca
 seguro
 seguros
 sei
+seja
 seminario
 senac
 send
@@ -810,9 +808,11 @@ servidor
 sga
 sgi
 sgp
+share
 shop
 sig
 siga
+sign
 simulador
 sip
 sis
@@ -840,6 +840,7 @@ solucoes
 sonar
 sonarqube
 sorteio
+sp1
 speed
 speedtest
 sports
@@ -881,7 +882,6 @@ supersets
 suporte
 support
 survey
-svn
 sww
 sympla
 sync
@@ -905,6 +905,7 @@ ticket
 tickets
 tools
 totem
+tour
 trabalheconosco
 trabalhista
 track
@@ -928,9 +929,7 @@ universidade
 update
 upload
 uptime
-url
 vagas
-validacao
 validador
 vantagens
 vault
@@ -955,6 +954,7 @@ votacao
 vpn
 vpn2
 vps
+wap
 wapi
 web
 webapp
@@ -993,8 +993,8 @@ www
 www1
 www2
 www3
-youtube
 zabbix
 zap
 zbx
+zeus
 zimbra

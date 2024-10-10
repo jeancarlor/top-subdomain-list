@@ -1,7 +1,6 @@
 adm
 admin
 ajuda
-analytics
 api
 app
 arquivos
@@ -21,8 +20,8 @@ checkout
 click
 cliente
 cloud
+contato
 conteudo
-correioadm
 crm
 cursos
 dashboard
@@ -32,6 +31,7 @@ docs
 ead
 email
 erp
+eventos
 financeiro
 ftp
 gestao
@@ -43,6 +43,7 @@ homolog
 homologacao
 imap
 intranet
+jenkins
 link
 links
 login
@@ -51,7 +52,6 @@ mail
 marketing
 materiais
 mautic
-mboss
 membros
 minio
 mkt
@@ -67,10 +67,11 @@ pop
 pop3
 portainer
 portal
-random
+projetos
 sandbox
 seguro
 server
+servicos
 shop
 sistema
 site
@@ -81,7 +82,6 @@ stape
 stat
 status
 storage
-superset
 suporte
 test
 teste
