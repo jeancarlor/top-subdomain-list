@@ -6,6 +6,7 @@ analyze
 api
 app
 auth
+backend
 beta
 bigdata
 blog
@@ -32,6 +33,7 @@ home
 hostmaster
 imap
 img
+insight
 intel
 intelligence
 karriere
@@ -46,11 +48,8 @@ mta-sts
 mysql
 neu
 new
-news
 newsletter
 nextcloud
-ns1
-ns2
 office
 old
 owa
@@ -61,6 +60,7 @@ portainer
 portal
 preview
 random
+rdp
 rds
 rdweb
 remote
