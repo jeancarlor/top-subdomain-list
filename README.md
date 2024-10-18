@@ -50,10 +50,14 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `IL` | Israel | 0.6 M records |
 | `IN` | India | 4.1 M records |
 | `IT` | Italy | 6.6 M records |
+| `NET` | No associated country | 17.0 M records |
+| `NL` | Netherlands | 5.7 M records |
 | `NL` | Netherlands | 7.5 M records |
 | `NO` | Norway | 1.4 M records |
+| `ORG` | No associated country | 12.4 M records |
 | `RU` | Russia | 9.5 M records |
 | `UK` | United Kingdom | 10.8 M records |
 | `US` | United States of America | 2.1 M records |
+| `ZA` | South Africa | 3.5 M records |
 
 
