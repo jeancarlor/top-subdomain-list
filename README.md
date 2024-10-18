@@ -34,9 +34,9 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `AM` | Armenia | 0.1 M records |
 | `AR` | Argentina | 1.2 M records |
 | `AT` | Austria | 1.7 M records |
-| `AU` | Australia | 6.0 M records |
-| `BR` | Brazil | 7.3 M records |
-| `CA` | Canada | 4.5 M records |
+| `AU` | Australia | 4.7 M records |
+| `BR` | Brazil | 6.8 M records |
+| `CA` | Canada | 3.3 M records |
 | `CH` | Switzerland | 3.7 M records |
 | `CL` | Chile | 1.6 M records |
 | `CN` | China | 2.4 M records |
@@ -49,7 +49,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `FR` | France | 6.3 M records |
 | `IE` | Ireland | 0.5 M records |
 | `IL` | Israel | 0.6 M records |
-| `IN` | India | 5.3 M records |
+| `IN` | India | 4.1 M records |
 | `IT` | Italy | 6.6 M records |
 | `NL` | Netherlands | 7.5 M records |
 | `NO` | Norway | 1.4 M records |
