@@ -53,7 +53,6 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `IT` | Italy | 6.6 M records |
 | `NL` | Netherlands | 7.5 M records |
 | `NO` | Norway | 1.4 M records |
-| `PY` | Paraguay | 0.08 M records |
 | `RU` | Russia | 9.5 M records |
 | `UK` | United Kingdom | 10.8 M records |
 | `US` | United States of America | 2.1 M records |
