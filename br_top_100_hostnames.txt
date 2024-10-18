@@ -1,11 +1,13 @@
 adm
 admin
 ajuda
+analytics
 api
 app
 arquivos
 atendimento
 auth
+backend
 bat
 beta
 blog
@@ -32,7 +34,6 @@ ead
 email
 erp
 eventos
-financeiro
 ftp
 gestao
 gitlab
@@ -64,7 +65,6 @@ pixel
 pixels
 plataforma
 pop
-pop3
 portainer
 portal
 projetos
@@ -80,6 +80,7 @@ speedtest
 staging
 stape
 stat
+static
 status
 storage
 suporte
@@ -93,7 +94,6 @@ web
 webhook
 webmail
 wiki
-ww16
 ww25
 ww38
 www
