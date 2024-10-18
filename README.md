@@ -44,7 +44,6 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `CO` | Colombia | 4.3 M records |
 | `DE` | Germany | 15.9 M records |
 | `DK` | Denmark | 1.6 M records |
-| `EG` | Egypt | 0.02 M records |
 | `ES` | Spain | 2.3 M records |
 | `FR` | France | 6.3 M records |
 | `IE` | Ireland | 0.5 M records |
