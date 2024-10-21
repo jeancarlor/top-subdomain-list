@@ -5,7 +5,6 @@ analytics
 analyze
 api
 app
-apps
 auth
 b2b
 backend
@@ -18,7 +17,6 @@ chart
 cloud
 cms
 crm
-dash
 dashboard
 dashboards
 data
@@ -38,16 +36,14 @@ imap
 info
 intel
 intelligence
-intra
 intranet
-ipv6
+jenkins
 kampagne
 lime
 link
 load
 login
 magento
-magento2
 mail
 media
 medlem
@@ -55,6 +51,7 @@ metric
 metrics
 mit
 mta-sts
+nas
 new
 nextcloud
 nginx
@@ -65,7 +62,9 @@ plex
 pop
 portainer
 portal
+preprod
 prod
+rds
 remote
 report
 reporting
@@ -73,8 +72,10 @@ reports
 research
 sandbox
 secure
+selvbetjening
 sgtm
 shop
+sitemap
 smtp
 stage
 staging
@@ -82,7 +83,6 @@ static
 stats
 status
 store
-superset
 supersets
 support
 test
