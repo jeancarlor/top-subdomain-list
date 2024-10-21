@@ -43,7 +43,7 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `COM` | No associated country | 182.5 M records |
 | `CO` | Colombia | 4.3 M records |
 | `DE` | Germany | 15.9 M records |
-| `DK` | Denmark | 1.6 M records |
+| `DK` | Denmark | 1.1 M records |
 | `ES` | Spain | 2.3 M records |
 | `FR` | France | 6.3 M records |
 | `IE` | Ireland | 0.5 M records |
@@ -53,9 +53,9 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `NET` | No associated country | 17.0 M records |
 | `NL` | Netherlands | 5.7 M records |
 | `NL` | Netherlands | 7.5 M records |
-| `NO` | Norway | 1.4 M records |
+| `NO` | Norway | 1.0 M records |
 | `ORG` | No associated country | 12.4 M records |
-| `RU` | Russia | 9.5 M records |
+| `RU` | Russia | 7.5 M records |
 | `UK` | United Kingdom | 10.8 M records |
 | `US` | United States of America | 2.1 M records |
 | `ZA` | South Africa | 3.5 M records |
