@@ -37,15 +37,15 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `AU` | Australia | 4.7 M records |
 | `BR` | Brazil | 6.8 M records |
 | `CA` | Canada | 3.3 M records |
-| `CH` | Switzerland | 3.7 M records |
-| `CL` | Chile | 1.6 M records |
-| `CN` | China | 2.4 M records |
+| `CH` | Switzerland | 2.8 M records |
+| `CL` | Chile | 1.2 M records |
+| `CN` | China | 1.9 M records |
 | `COM` | No associated country | 182.5 M records |
 | `CO` | Colombia | 4.3 M records |
 | `DE` | Germany | 15.9 M records |
 | `DK` | Denmark | 1.1 M records |
-| `ES` | Spain | 2.3 M records |
-| `FR` | France | 6.3 M records |
+| `ES` | Spain | 1.8 M records |
+| `FR` | France | 4.8 M records |
 | `IE` | Ireland | 0.5 M records |
 | `IL` | Israel | 0.6 M records |
 | `IN` | India | 4.1 M records |
