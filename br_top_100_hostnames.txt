@@ -1,7 +1,6 @@
 adm
 admin
 ajuda
-analytics
 api
 app
 arquivos
@@ -22,8 +21,8 @@ checkout
 click
 cliente
 cloud
-contato
 conteudo
+correioadm
 crm
 cursos
 dashboard
@@ -34,6 +33,8 @@ ead
 email
 erp
 eventos
+evolution
+financeiro
 ftp
 gestao
 gitlab
@@ -53,6 +54,7 @@ mail
 marketing
 materiais
 mautic
+mboss
 membros
 minio
 mkt
@@ -65,13 +67,11 @@ pixel
 pixels
 plataforma
 pop
+pop3
 portainer
 portal
-projetos
-sandbox
 seguro
 server
-servicos
 shop
 sistema
 site
@@ -83,13 +83,14 @@ stat
 static
 status
 storage
+store
 suporte
 test
 teste
-traefik
 transparencia
 typebot
 vendas
+vpn
 web
 webhook
 webmail
@@ -97,4 +98,3 @@ wiki
 ww25
 ww38
 www
-zabbix
