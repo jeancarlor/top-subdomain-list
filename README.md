@@ -30,33 +30,33 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 
 | ccTLD   | Country | Records Analyzed  |
 | :---:   | ---     | ---   |
-| `AE` | United Arab Emirates | 0.6 M records |
+| `AE` | United Arab Emirates | 0.7 M records |
 | `AM` | Armenia | 0.1 M records |
 | `AR` | Argentina | 1.9 M records |
 | `AT` | Austria | 2.2 M records |
-| `AU` | Australia | 4.7 M records |
+| `AU` | Australia | 9.4M records |
 | `BR` | Brazil | 16.3 M records |
 | `CA` | Canada | 3.3 M records |
-| `CH` | Switzerland | 2.8 M records |
-| `CL` | Chile | 1.2 M records |
-| `CN` | China | 1.9 M records |
+| `CH` | Switzerland | 6.0 M records |
+| `CL` | Chile | 2.3 M records |
+| `CN` | China | 10.2 M records |
 | `COM` | No associated country | 482.0 M records |
-| `CO` | Colombia | 4.3 M records |
-| `DE` | Germany | 15.9 M records |
+| `CO` | Colombia | 7.5 M records |
+| `DE` | Germany | 35.1 M records |
 | `DK` | Denmark | 1.1 M records |
-| `ES` | Spain | 1.8 M records |
+| `ES` | Spain | 3.8 M records |
 | `FR` | France | 11.6 M records |
-| `IE` | Ireland | 0.5 M records |
+| `IE` | Ireland | 0.7 M records |
 | `IL` | Israel | 0.9 M records |
 | `IN` | India | 9.9 M records |
 | `IT` | Italy | 9.2 M records |
 | `NET` | No associated country | 46.4 M records |
 | `NL` | Netherlands | 5.7 M records |
 | `NL` | Netherlands | 7.5 M records |
-| `NO` | Norway | 1.7 M records |
+| `NO` | Norway | 1.9 M records |
 | `ORG` | No associated country | 36.8 M records |
 | `RU` | Russia | 16.6 M records |
 | `UK` | United Kingdom | 20.3 M records |
-| `US` | United States of America | 2.1 M records |
-| `ZA` | South Africa | 3.5 M records |
+| `US` | United States of America | 4.4 M records |
+| `ZA` | South Africa | 6.6 M records |
 
