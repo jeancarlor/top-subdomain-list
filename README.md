@@ -54,8 +54,11 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `NL` | Netherlands | 5.7 M records |
 | `NL` | Netherlands | 7.5 M records |
 | `NO` | Norway | 1.9 M records |
+| `ONLINE` | No associated country | 5.3 M records |
 | `ORG` | No associated country | 36.8 M records |
 | `RU` | Russia | 16.6 M records |
+| `SITE` | No associated country | 4.7 M records |
+| `SHOP` | No associated country | 4.9 M records |
 | `UK` | United Kingdom | 20.3 M records |
 | `US` | United States of America | 4.4 M records |
 | `ZA` | South Africa | 6.6 M records |
