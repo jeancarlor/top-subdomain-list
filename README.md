@@ -36,14 +36,14 @@ Use dnsx to query the searched domain directly. The dnsx tool must be installed 
 | `AT` | Austria | 2.2 M records |
 | `AU` | Australia | 9.4M records |
 | `BR` | Brazil | 16.3 M records |
-| `CA` | Canada | 3.3 M records |
+| `CA` | Canada | 8.0 M records |
 | `CH` | Switzerland | 6.0 M records |
 | `CL` | Chile | 2.3 M records |
 | `CN` | China | 10.2 M records |
 | `COM` | No associated country | 482.0 M records |
 | `CO` | Colombia | 7.5 M records |
 | `DE` | Germany | 35.1 M records |
-| `DK` | Denmark | 1.1 M records |
+| `DK` | Denmark | 2.4 M records |
 | `ES` | Spain | 3.8 M records |
 | `FR` | France | 11.6 M records |
 | `IE` | Ireland | 0.7 M records |
